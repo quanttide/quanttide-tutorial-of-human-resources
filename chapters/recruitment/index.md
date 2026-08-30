@@ -10,4 +10,4 @@
 ## 关联
 
 - 📘 [招聘手册](../../handbook/recruitment/index.md) - 招聘流程与操作规范
-- 📋 [招聘标准](../../handbook/recruitment/assessment.md) - 评估标准与方法
+- 📋 [招聘标准](../../handbook/recruitment/index.md) - 评估标准与方法
